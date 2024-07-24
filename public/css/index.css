@@ -1,8 +1,8 @@
 @import './default.css';
 @import './header.css';
-@import '/sidebar.css';
-@import '/posts.css';
-@import '/home.css';
+@import './sidebar.css';
+@import './posts.css';
+@import './home.css';
 @import './fontFamily.css';
 @import './topbar.css' ;
 
