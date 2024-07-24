@@ -7,6 +7,5 @@
 }
 .home .wrapper{
     width: 100%;
-    
-    max:60px;
+    max-width:60px;
 }
